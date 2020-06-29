@@ -1,4 +1,8 @@
-The program covid-19.py - written by Justine Galbraith, 2020/06/27
+# covid19-spc
+An SPC approach to viewing COVID 19 cases in Allegheny County
+
+The code: covid-19.py and step-covid-19.py. 
+Written by Justine Galbraith, 2020/06/27
 
 I wrote this python script to draw and plot data from the NYT Covid-19 data set that they maintain online. 
 Link: https://github.com/nytimes/covid-19-data
